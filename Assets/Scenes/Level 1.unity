@@ -1621,6 +1621,30 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 83810729}
+    - target: {fileID: 1209135350848171340, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
+      propertyPath: smoothTime
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1209135350848171340, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
+      propertyPath: cameraFollowsY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661768469817836164, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
+      propertyPath: m_BackGroundColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661768469817836164, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.18431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661768469817836164, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.15686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661768469817836164, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.098039225
+      objectReference: {fileID: 0}
     - target: {fileID: 3462496670575953307, guid: 6e507296c5c1829478b6ae3ffcecce73, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
