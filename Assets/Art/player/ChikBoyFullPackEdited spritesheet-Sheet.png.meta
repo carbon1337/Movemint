@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: 62b92342d6f9bcf489cdb95ae6dbad85
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74072772df2b1141a93b3fd792b0c6e
+      internalID: 1926840022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1120
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86533187bee31d44bee1d81e0e89150
+      internalID: 1203439730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1120
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e9ff21ad4b204886951536e761387
+      internalID: 1774188559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea8e9a3842a8b44b6c5dde3032662a
+      internalID: 544242357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e658bcb6a45fc5848aa72cce8a8bfa49
+      internalID: 1208992028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2dc4544181474dbe83fd53ffdef02
+      internalID: -502233294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb1a9029f3cc74692876126dd85903
+      internalID: -1150241479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860bcac16c1ddb41afcedb0ac68a10f
+      internalID: -279256129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2def79c958a34195877064db00b88
+      internalID: 1711016640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf01384420e02f24b9e016958ae2e97a
+      internalID: 74676769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307300a945dbcd4691351c92619d6f6
+      internalID: -1537703298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd66ec0fa5edec4193383e96c9d9143
+      internalID: 867299121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b32becdf72be4ea3142caf9fe0288
+      internalID: 1537768764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99b326b7cc8ba41ba7efb66e0392a2
+      internalID: -124057466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975a27a38d9ea445a858b4cc5f041b2
+      internalID: -1208622703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea86d71eb95c5845be4040701c1095d
+      internalID: -2001357310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f24edefa98b74b8a3565da96104c1
+      internalID: -31596048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b57369c9643d54b8b2bca4969e8620
+      internalID: 963597488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab87e12c9740e4c8868e75555ce343
+      internalID: -32782865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf8bbbe2902f86458528c98f03e909e
+      internalID: 1888589296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9cb06f9027a24196382713c32e89e
+      internalID: -1355684122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c81d099930cb41833fb38d19282d7
+      internalID: -1013744694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a991f4fc2f0b4294310f81dfaa234
+      internalID: -2101399305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81649f07954995644a7cb201e6e24ed4
+      internalID: -1314440229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 480
+        width: 65
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c56b1b0719dc45b423a644171ff51
+      internalID: 1598896455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 480
+        width: 65
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd16f35acdc2be4288fa1bde0b5408c
+      internalID: -1475202053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 480
+        width: 65
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f113ed71a3024ca5e4679ceec7d76
+      internalID: 658556973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 480
+        width: 65
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad8f939ae31214db97c62e1944a934
+      internalID: -710136248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 480
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3583c4ac0979e4f9b22b38e6fee4d4
+      internalID: -1392421598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f26cc41eb371c4393088421672075d
+      internalID: -839060731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a6447444b1dc499ac4a7314fa16b4
+      internalID: -34186144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a68d5aaf5dddb499638ca1a73ffe10
+      internalID: 654459771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24426ee9d391f2046b7c527125a0c8d0
+      internalID: 941968251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a99363f1d9170642a7300efe9ca8dc6
+      internalID: 1941060237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51fe56a064c4042aecd6700c53aae3
+      internalID: -1006121855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f64708417946429ab8c44e34cefa5
+      internalID: 374183265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92d073cdf11d146aea85951164366a
+      internalID: -634626659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 160
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b16fb3aeec9384b97682ac2e7a5424
+      internalID: 1083479154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b3aacc8a88dd248a82aa4b33ea51db
+      internalID: 704825588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a534ea3ebbad6d43a4b2c086a2b500f
+      internalID: -1191725973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a0e8ca3de91c40bf796f04cc109c8
+      internalID: 1227229253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aea44263edba6a44bdc5c9fc714a589
+      internalID: -1489999834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f61d5a632142d4b88b3231dded326a
+      internalID: -1100512314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce477e20d3ae57429529b61d3f9f206
+      internalID: -711548225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8c48d3c18108d45bb4d10e6da35cfa
+      internalID: 1444267458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2ec7fd3773e9c42bfa7e58e863912c
+      internalID: -2115059168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChikBoyFullPackEdited spritesheet-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8583c297cbb76149b3e59474f49fa3b
+      internalID: -1708289344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChikBoyFullPackEdited spritesheet-Sheet_0: 2028866567
+      ChikBoyFullPackEdited spritesheet-Sheet_1: -2138968312
+      ChikBoyFullPackEdited spritesheet-Sheet_10: 11608262
+      ChikBoyFullPackEdited spritesheet-Sheet_100: 1093009785
+      ChikBoyFullPackEdited spritesheet-Sheet_101: -2021978363
+      ChikBoyFullPackEdited spritesheet-Sheet_102: 2140698338
+      ChikBoyFullPackEdited spritesheet-Sheet_103: -502651055
+      ChikBoyFullPackEdited spritesheet-Sheet_104: 791611715
+      ChikBoyFullPackEdited spritesheet-Sheet_105: -2044546030
+      ChikBoyFullPackEdited spritesheet-Sheet_106: -1254552799
+      ChikBoyFullPackEdited spritesheet-Sheet_107: 2081469490
+      ChikBoyFullPackEdited spritesheet-Sheet_108: 1573550893
+      ChikBoyFullPackEdited spritesheet-Sheet_109: 2072368019
+      ChikBoyFullPackEdited spritesheet-Sheet_11: -739365813
+      ChikBoyFullPackEdited spritesheet-Sheet_110: 811530716
+      ChikBoyFullPackEdited spritesheet-Sheet_111: -186074139
+      ChikBoyFullPackEdited spritesheet-Sheet_112: 1506673112
+      ChikBoyFullPackEdited spritesheet-Sheet_113: -460874553
+      ChikBoyFullPackEdited spritesheet-Sheet_114: -130899320
+      ChikBoyFullPackEdited spritesheet-Sheet_115: 984564891
+      ChikBoyFullPackEdited spritesheet-Sheet_116: 1933551200
+      ChikBoyFullPackEdited spritesheet-Sheet_117: -548336118
+      ChikBoyFullPackEdited spritesheet-Sheet_118: 1210987535
+      ChikBoyFullPackEdited spritesheet-Sheet_119: -1476730695
+      ChikBoyFullPackEdited spritesheet-Sheet_12: -1328619519
+      ChikBoyFullPackEdited spritesheet-Sheet_120: 1931608719
+      ChikBoyFullPackEdited spritesheet-Sheet_121: 1752652473
+      ChikBoyFullPackEdited spritesheet-Sheet_122: 1596267317
+      ChikBoyFullPackEdited spritesheet-Sheet_123: 762492522
+      ChikBoyFullPackEdited spritesheet-Sheet_124: -863745794
+      ChikBoyFullPackEdited spritesheet-Sheet_125: 1083479154
+      ChikBoyFullPackEdited spritesheet-Sheet_126: 704825588
+      ChikBoyFullPackEdited spritesheet-Sheet_127: -1191725973
+      ChikBoyFullPackEdited spritesheet-Sheet_128: 1227229253
+      ChikBoyFullPackEdited spritesheet-Sheet_129: -1489999834
+      ChikBoyFullPackEdited spritesheet-Sheet_13: -230835804
+      ChikBoyFullPackEdited spritesheet-Sheet_130: -955105176
+      ChikBoyFullPackEdited spritesheet-Sheet_131: 1041666501
+      ChikBoyFullPackEdited spritesheet-Sheet_132: -512804383
+      ChikBoyFullPackEdited spritesheet-Sheet_133: -953197900
+      ChikBoyFullPackEdited spritesheet-Sheet_134: -447552371
+      ChikBoyFullPackEdited spritesheet-Sheet_135: 1365452949
+      ChikBoyFullPackEdited spritesheet-Sheet_136: 1815068994
+      ChikBoyFullPackEdited spritesheet-Sheet_137: 879861030
+      ChikBoyFullPackEdited spritesheet-Sheet_138: -1100512314
+      ChikBoyFullPackEdited spritesheet-Sheet_139: -711548225
+      ChikBoyFullPackEdited spritesheet-Sheet_14: -441299839
+      ChikBoyFullPackEdited spritesheet-Sheet_140: -18062035
+      ChikBoyFullPackEdited spritesheet-Sheet_141: 1444267458
+      ChikBoyFullPackEdited spritesheet-Sheet_142: -2115059168
+      ChikBoyFullPackEdited spritesheet-Sheet_143: -1708289344
+      ChikBoyFullPackEdited spritesheet-Sheet_15: -1649039284
+      ChikBoyFullPackEdited spritesheet-Sheet_16: 544242357
+      ChikBoyFullPackEdited spritesheet-Sheet_17: 1208992028
+      ChikBoyFullPackEdited spritesheet-Sheet_18: -502233294
+      ChikBoyFullPackEdited spritesheet-Sheet_19: -1150241479
+      ChikBoyFullPackEdited spritesheet-Sheet_2: 1926840022
+      ChikBoyFullPackEdited spritesheet-Sheet_20: -279256129
+      ChikBoyFullPackEdited spritesheet-Sheet_21: 1711016640
+      ChikBoyFullPackEdited spritesheet-Sheet_22: 74676769
+      ChikBoyFullPackEdited spritesheet-Sheet_23: -1537703298
+      ChikBoyFullPackEdited spritesheet-Sheet_24: 867299121
+      ChikBoyFullPackEdited spritesheet-Sheet_25: -1571962767
+      ChikBoyFullPackEdited spritesheet-Sheet_26: -1719624155
+      ChikBoyFullPackEdited spritesheet-Sheet_27: -1253285461
+      ChikBoyFullPackEdited spritesheet-Sheet_28: 1009015218
+      ChikBoyFullPackEdited spritesheet-Sheet_29: 987627972
+      ChikBoyFullPackEdited spritesheet-Sheet_3: 1112220559
+      ChikBoyFullPackEdited spritesheet-Sheet_30: 783542606
+      ChikBoyFullPackEdited spritesheet-Sheet_31: -289153918
+      ChikBoyFullPackEdited spritesheet-Sheet_32: -803591329
+      ChikBoyFullPackEdited spritesheet-Sheet_33: -786587473
+      ChikBoyFullPackEdited spritesheet-Sheet_34: 1612619217
+      ChikBoyFullPackEdited spritesheet-Sheet_35: 1537768764
+      ChikBoyFullPackEdited spritesheet-Sheet_36: -124057466
+      ChikBoyFullPackEdited spritesheet-Sheet_37: -1208622703
+      ChikBoyFullPackEdited spritesheet-Sheet_38: -2001357310
+      ChikBoyFullPackEdited spritesheet-Sheet_39: -31596048
+      ChikBoyFullPackEdited spritesheet-Sheet_4: 1203439730
+      ChikBoyFullPackEdited spritesheet-Sheet_40: 963597488
+      ChikBoyFullPackEdited spritesheet-Sheet_41: -32782865
+      ChikBoyFullPackEdited spritesheet-Sheet_42: 1888589296
+      ChikBoyFullPackEdited spritesheet-Sheet_43: -1355684122
+      ChikBoyFullPackEdited spritesheet-Sheet_44: -1013744694
+      ChikBoyFullPackEdited spritesheet-Sheet_45: -2101399305
+      ChikBoyFullPackEdited spritesheet-Sheet_46: -1314440229
+      ChikBoyFullPackEdited spritesheet-Sheet_47: 689519751
+      ChikBoyFullPackEdited spritesheet-Sheet_48: 1631504128
+      ChikBoyFullPackEdited spritesheet-Sheet_49: 1797032942
+      ChikBoyFullPackEdited spritesheet-Sheet_5: -213981901
+      ChikBoyFullPackEdited spritesheet-Sheet_50: -1434911332
+      ChikBoyFullPackEdited spritesheet-Sheet_51: 1489478593
+      ChikBoyFullPackEdited spritesheet-Sheet_52: -112346512
+      ChikBoyFullPackEdited spritesheet-Sheet_53: -937190378
+      ChikBoyFullPackEdited spritesheet-Sheet_54: -1639286125
+      ChikBoyFullPackEdited spritesheet-Sheet_55: 1057337537
+      ChikBoyFullPackEdited spritesheet-Sheet_56: 94371563
+      ChikBoyFullPackEdited spritesheet-Sheet_57: 445170094
+      ChikBoyFullPackEdited spritesheet-Sheet_58: 1483297687
+      ChikBoyFullPackEdited spritesheet-Sheet_59: 204442833
+      ChikBoyFullPackEdited spritesheet-Sheet_6: 1774188559
+      ChikBoyFullPackEdited spritesheet-Sheet_60: 233597556
+      ChikBoyFullPackEdited spritesheet-Sheet_61: 1377524941
+      ChikBoyFullPackEdited spritesheet-Sheet_62: -1804151063
+      ChikBoyFullPackEdited spritesheet-Sheet_63: -1257698954
+      ChikBoyFullPackEdited spritesheet-Sheet_64: -1484216630
+      ChikBoyFullPackEdited spritesheet-Sheet_65: -369936246
+      ChikBoyFullPackEdited spritesheet-Sheet_66: 1268554226
+      ChikBoyFullPackEdited spritesheet-Sheet_67: 1020154323
+      ChikBoyFullPackEdited spritesheet-Sheet_68: 1875245090
+      ChikBoyFullPackEdited spritesheet-Sheet_69: -1126139090
+      ChikBoyFullPackEdited spritesheet-Sheet_7: -904661471
+      ChikBoyFullPackEdited spritesheet-Sheet_70: 2142768546
+      ChikBoyFullPackEdited spritesheet-Sheet_71: -1943192047
+      ChikBoyFullPackEdited spritesheet-Sheet_72: 1598896455
+      ChikBoyFullPackEdited spritesheet-Sheet_73: -1475202053
+      ChikBoyFullPackEdited spritesheet-Sheet_74: 658556973
+      ChikBoyFullPackEdited spritesheet-Sheet_75: -710136248
+      ChikBoyFullPackEdited spritesheet-Sheet_76: -1392421598
+      ChikBoyFullPackEdited spritesheet-Sheet_77: -839060731
+      ChikBoyFullPackEdited spritesheet-Sheet_78: -34186144
+      ChikBoyFullPackEdited spritesheet-Sheet_79: 654459771
+      ChikBoyFullPackEdited spritesheet-Sheet_8: -1193028102
+      ChikBoyFullPackEdited spritesheet-Sheet_80: 1993187834
+      ChikBoyFullPackEdited spritesheet-Sheet_81: 109718172
+      ChikBoyFullPackEdited spritesheet-Sheet_82: 2053261201
+      ChikBoyFullPackEdited spritesheet-Sheet_83: 275871138
+      ChikBoyFullPackEdited spritesheet-Sheet_84: 1991472332
+      ChikBoyFullPackEdited spritesheet-Sheet_85: -1429561074
+      ChikBoyFullPackEdited spritesheet-Sheet_86: -1503415643
+      ChikBoyFullPackEdited spritesheet-Sheet_87: -1439781008
+      ChikBoyFullPackEdited spritesheet-Sheet_88: -1660417600
+      ChikBoyFullPackEdited spritesheet-Sheet_89: -1882877525
+      ChikBoyFullPackEdited spritesheet-Sheet_9: 1906507677
+      ChikBoyFullPackEdited spritesheet-Sheet_90: 941968251
+      ChikBoyFullPackEdited spritesheet-Sheet_91: 1941060237
+      ChikBoyFullPackEdited spritesheet-Sheet_92: -1006121855
+      ChikBoyFullPackEdited spritesheet-Sheet_93: 374183265
+      ChikBoyFullPackEdited spritesheet-Sheet_94: -634626659
+      ChikBoyFullPackEdited spritesheet-Sheet_95: 434515871
+      ChikBoyFullPackEdited spritesheet-Sheet_96: 1018755006
+      ChikBoyFullPackEdited spritesheet-Sheet_97: -1976073090
+      ChikBoyFullPackEdited spritesheet-Sheet_98: 1479443255
+      ChikBoyFullPackEdited spritesheet-Sheet_99: 1829299744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
